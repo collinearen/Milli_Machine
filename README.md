@@ -24,11 +24,9 @@ Overall, the code provides a graphical interface for interacting with a ***Mealy
 # ***Installation***
 [(Back to top)](#table-of-contents)
 
-> **Note**: For longer README files, I usually add a "Back to top" buttton as shown above. It makes it easy to navigate.
-
 ### <p align="center">you need to download the project to your local computer</p>
 ```shell
-git clone https://github.com/collinearen/share-this-project.git
+git clone https://github.com/collinearen/mealy_machine.git
 ```
 ### <p align="center">Next you need to create a virtual environment in Python and activate it</p>
 ```shell
