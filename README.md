@@ -24,8 +24,7 @@ Overall, the code provides a graphical interface for interacting with a ***Mealy
 
 <img src="https://github.com/collinearen/mealy_machine/blob/main/images/result.png" width="650" height="800" alt="telegram group" />
 
-# ***Installation***
-[(Back to top)](#table-of-contents)
+# **Installation**
 
 ### <p align="center">you need to download the project to your local computer</p>
 ```shell
