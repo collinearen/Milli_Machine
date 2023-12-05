@@ -20,6 +20,9 @@ Overall, the code provides a graphical interface for interacting with a ***Mealy
 
   <img src="https://github.com/collinearen/Milli_Machine/blob/main/images/Mealy_machine.png" width="500" height="400" alt="telegram group" />
 
+## result
+
+<img src="https://github.com/collinearen/mealy_machine/blob/main/images/result.png" width="650" height="800" alt="telegram group" />
 
 # ***Installation***
 [(Back to top)](#table-of-contents)
